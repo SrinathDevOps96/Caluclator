@@ -13,7 +13,7 @@
   <artifactId>webapp</artifactId>
   <packaging>war</packaging>
   <name>Webapp</name>
-  <description>Calulator.</description>
+  <description>Calulatorssssss.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>

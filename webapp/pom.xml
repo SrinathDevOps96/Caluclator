@@ -13,11 +13,7 @@
   <artifactId>webapp</artifactId>
   <packaging>war</packaging>
   <name>Webapp</name>
-<<<<<<< HEAD
   <description>Calulatorssss.</description>
-=======
-  <description>Calulator1234.</description>
->>>>>>> branch 'master' of https://github.com/SrinathDevOps96/Caluclator.git
 
   <build>
     <finalName>${project.artifactId}</finalName>
